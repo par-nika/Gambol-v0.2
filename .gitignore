@@ -1,0 +1,18 @@
+# Ignore build and IDE files
+/bin/
+/.vscode/
+/.classpath
+/.project
+/.settings/
+/target/
+*.class
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system files
+.DS_Store
+Thumbs.db
